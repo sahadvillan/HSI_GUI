@@ -1,7 +1,7 @@
 # User-Interface to automatically acquire the data from the HSI camera and extract the physiological parameters
 
 ## Introduction
-Welcome to project repository for the Biomedical Engineering seminar. This project focuses on developing a **Graphical User Interface (GUI)** for **automatic transfer and visualization** of **Hyperspectral Imaging (HSI) cubes**
+ This project focuses on developing a **Graphical User Interface (GUI)** for **automatic transfer and visualization** of **Hyperspectral Imaging (HSI) cubes**
 
 
 ### **Project Goals**  
