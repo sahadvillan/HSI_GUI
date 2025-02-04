@@ -60,11 +60,8 @@ To set up the project on your local machine, follow these steps:
    ```sh
    git clone https://github.com/sahadvillan/HSI_GUI.git
    ```
-2. Navigate to the project directory:
-   ```sh
-   cd group-3
-   ```
-3. Install the required dependencies:
+
+2. Install the required dependencies:
    ```sh
    pip install -r requirements.txt
    ```
