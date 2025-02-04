@@ -58,7 +58,7 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://gitlab.hs-anhalt.de/seminar-biomedical-engineering/group-3.git
+   git clone https://github.com/sahadvillan/HSI_GUI.git
    ```
 2. Navigate to the project directory:
    ```sh
